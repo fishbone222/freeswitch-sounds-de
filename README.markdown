@@ -16,6 +16,9 @@ Currently the following languages are supported:
 * Russian (ru)
 * Simplified Chinese (zh_CN)
 
+PHP-Version < 8
+mkdir -p output/de/tts/google/ivr/8000
+mkdir -p output/de/tts/google/ivr/16000
 
 ## Intention
 The original main purpose was to create high quality German voice prompts for the Open Source PBX [Gemeinschaft 5](http://amooma.de/gemeinschaft/gs5) which is baed on FreeSWITCH.
